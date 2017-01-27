@@ -3,7 +3,7 @@ This repository contains and R Script, a tidy data set and a readme.md about the
 
 # List of files
 
-## tidy_project.R:
+## run_analysis.R:
 R script with the code to tidy de original data set and obtain the file "average.txt".
 
 ## tidy_data_set.txt:
